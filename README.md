@@ -1,4 +1,14 @@
-### Hi there 👋
+# Yangson Andrew Choi aka Yachoi
+
+# Skills
+[![Language](https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css)](https://skillicons.dev)
+
+[![Database](https://skillicons.dev/icons?i=postgres,prisma)](https://skillicons.dev)
+
+[![Framework](https://skillicons.dev/icons?i=nestjs,react)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=docker,aws,)](https://skillicons.dev)
+
 
 <!--
 **yangsonchoi/yangsonchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
