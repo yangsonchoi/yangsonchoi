@@ -1,5 +1,8 @@
 # Yangson Andrew Choi aka Yachoi
 
+[![yachoi's 42 stats](https://badge42.vercel.app/api/v2/climlhqms002608l5tpbc2s28/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+
+
 # Skills
 [![Language](https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css)](https://skillicons.dev)
 
